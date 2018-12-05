@@ -1,0 +1,7 @@
+- Introductory HTML.
+- The basics of Cascading Style Sheets.
+- That JavaScrip exists.
+- That there are a lot of tags and attributes I'm going to have to learn, and that it'll be a daunting task to learn all that I need to learn before I'll officially be a web developper, but I'm up for the challenge.
+- That adding lines to the README.md file with the echo technique while using single appostrophies to enclose the text causes all sorts of weirdness due to Terminal thinking the quote is over. Double-quotes will be used from here on in.
+- Git is both easy to do but hard to understand, if that makes any scence.
+- That I'm going to have to double my efforts and put my full energy on this bootcamp.
